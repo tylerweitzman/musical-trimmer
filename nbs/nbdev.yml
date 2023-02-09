@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "musical-trimmer"
+  site-url: "https://tylerweitzman.github.io/musical-trimmer"
+  description: "Trim videos to only their songs based on subtitles input"
+  repo-branch: main
+  repo-url: "https://github.com/tylerweitzman/musical-trimmer"
